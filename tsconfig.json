@@ -1,0 +1,10 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true
+  },
+  "exclude": [
+    "utils.test.ts",
+    "node_modules"
+  ]
+}
